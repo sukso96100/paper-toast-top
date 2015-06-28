@@ -2,7 +2,7 @@
   "name": "paper-toast-top",
   "version": "1.0.0",
   "description": "A material design notification toast that appears on the top",
-  "private": true,
+  "private": false,
   "license": "http://polymer.github.io/LICENSE.txt",
   "authors": [
     "Youngbin Han<sukso96100@gmail.com>"
